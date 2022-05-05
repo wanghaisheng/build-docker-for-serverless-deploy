@@ -1,5 +1,22 @@
-# docker构建这一篇就够了
+# 云上部署
 
+
+诸如azure heroku 项目目录中提交docker file会自动的build push到他们相应的registry并应用这个镜像，但目前阿里云是不支持这个完整流程
+你需要提前build，publish镜像到阿里云自己的registry service上去 ，然后发布时引用这个镜像。
+
+
+
+## 项目源代码
+
+
+## 镜像build
+docker构建这一篇就够了
+
+## 镜像发布
+
+点此开通阿里云账号对应的镜像注册服务
+
+https://cr.console.aliyun.com/cn-hangzhou/instances
 
 
 b站 https://www.bilibili.com/video/BV1iY411P7Dp/
