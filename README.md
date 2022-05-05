@@ -10,7 +10,16 @@
 
 
 ## 镜像build
-docker构建这一篇就够了
+### 手动在portal上构建
+
+可以关联github等repo，选择是tag还是branch
+
+![图片](https://user-images.githubusercontent.com/2363295/166900245-42e592fd-ff72-4265-b50d-a624f23b0153.png)
+
+
+### cli构建
+
+本文详述
 
 ## 镜像发布
 
